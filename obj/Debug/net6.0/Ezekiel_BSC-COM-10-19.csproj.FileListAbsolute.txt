@@ -1,0 +1,15 @@
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.csproj.AssemblyReference.cache
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.AssemblyInfoInputs.cache
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.AssemblyInfo.cs
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.csproj.CoreCompileInputs.cache
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.dll
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\refint\Ezekiel_BSC-COM-10-19.dll
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.pdb
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\bin\Debug\net6.0\Ezekiel_BSC-COM-10-19.exe
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\bin\Debug\net6.0\Ezekiel_BSC-COM-10-19.deps.json
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\bin\Debug\net6.0\Ezekiel_BSC-COM-10-19.runtimeconfig.json
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\bin\Debug\net6.0\Ezekiel_BSC-COM-10-19.dll
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\bin\Debug\net6.0\Ezekiel_BSC-COM-10-19.pdb
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\Ezekiel_BSC-COM-10-19.genruntimeconfig.cache
+C:\Users\REUS BANDA\Desktop\C#\Ezekiel_BSC-COM-10-19\obj\Debug\net6.0\ref\Ezekiel_BSC-COM-10-19.dll
